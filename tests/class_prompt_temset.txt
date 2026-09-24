@@ -1,0 +1,43 @@
+In this surgical scene, the action is Aspiration, using suction to remove fluid or blood.
+In this surgical scene, the action is Bleeding, with active blood visible in the field.
+In this surgical scene, the action is Clipping Suture, applying a clip or suture to tissue.
+In this surgical scene, the action is Debris Wash, irrigating to clear particulate debris.
+In this surgical scene, the action is Deflate Rectum, releasing insufflation and reducing lumen distension.
+In this surgical scene, the action is Dissection, separating tissue planes.
+In this surgical scene, the action is Fluid Wash, rinsing tissue surfaces with irrigation fluid.
+In this surgical scene, the action is Haemostasis, controlling bleeding with coagulation or clips.
+In this surgical scene, the action is Inflate Rectum, insufflating to expand the lumen.
+In this surgical scene, the action is Instrument Positioning, placing or reorienting surgical instruments.
+In this surgical scene, the action is Marking, marking tissue or lesion boundaries.
+In this surgical scene, the action is No Action, with no active operative maneuver.
+In this surgical scene, the action is Out of Body, where the scope view is outside the patient.
+In this surgical scene, the action is Retraction, pulling tissue to expose the target area.
+In this surgical scene, the action is Scope Insertion, inserting the endoscope.
+In this surgical scene, the action is Scope Positioning, adjusting the endoscope viewpoint.
+In this surgical scene, the action is Scope Removal, withdrawing the endoscope.
+In this surgical scene, the action is Smoke, with smoke obscuring the surgical view.
+In this surgical scene, the action is Specimen Removal, removing resected tissue.
+In this surgical scene, the action is Stitching, suturing tissue.
+In this surgical scene, the action is Washout, performing broad lavage of the operative field.
+# Previous prompts (kept for reference):
+# In this surgical scene, the action is Aspiration.
+# In this surgical scene, the action is Bleeding.
+# In this surgical scene, the action is Clipping Suture.
+# In this surgical scene, the action is Debris Wash.
+# In this surgical scene, the action is Deflate Rectum.
+# In this surgical scene, the action is Dissection.
+# In this surgical scene, the action is Fluid Wash.
+# In this surgical scene, the action is Haemostasis.
+# In this surgical scene, the action is Inflate Rectum.
+# In this surgical scene, the action is Instrument Positioning.
+# In this surgical scene, the action is Marking.
+# In this surgical scene, the action is No Action.
+# In this surgical scene, the action is Out of Body.
+# In this surgical scene, the action is Retraction.
+# In this surgical scene, the action is Scope Insertion.
+# In this surgical scene, the action is Scope Positioning.
+# In this surgical scene, the action is Scope Removal.
+# In this surgical scene, the action is Smoke.
+# In this surgical scene, the action is Specimen Removal.
+# In this surgical scene, the action is Stitching.
+# In this surgical scene, the action is Washout.

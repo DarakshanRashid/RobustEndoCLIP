@@ -1,0 +1,17 @@
+In this gastrointestinal endoscopy image, the finding is dyed-lifted polyps after submucosal dye injection.
+In this gastrointestinal endoscopy image, the finding is dyed resection margins after endoscopic resection.
+In this gastrointestinal endoscopy image, the finding is esophagitis with inflamed esophageal mucosa.
+In this gastrointestinal endoscopy image, the finding is normal cecum.
+In this gastrointestinal endoscopy image, the finding is normal pylorus.
+In this gastrointestinal endoscopy image, the finding is normal Z-line at the gastroesophageal junction.
+In this gastrointestinal endoscopy image, the finding is polyps.
+In this gastrointestinal endoscopy image, the finding is ulcerative colitis with diffuse colonic inflammation.
+# Previous prompts (kept for reference):
+# In this endoscopic image, the finding is dyed lifted polyps.
+# In this endoscopic image, the finding is dyed resection margins.
+# In this endoscopic image, the finding is esophagitis.
+# In this endoscopic image, the finding is normal cecum.
+# In this endoscopic image, the finding is normal pylorus.
+# In this endoscopic image, the finding is normal z line.
+# In this endoscopic image, the finding is polyps.
+# In this endoscopic image, the finding is ulcerative colitis.

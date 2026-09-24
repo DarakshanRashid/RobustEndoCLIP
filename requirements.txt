@@ -1,0 +1,10 @@
+packaging
+tqdm
+mmengine==0.7.0
+torch
+torchvision
+numpy<2
+fvcore
+transformers==4.30.2
+opencv-python
+Pillow

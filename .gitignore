@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# Model weights / checkpoints
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+
+# Datasets and generated experiment artifacts
+data/
+frames/
+csvs/
+splits/
+training_outputs/
+eval_outputs/
+plot_outputs/
+*.log
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
